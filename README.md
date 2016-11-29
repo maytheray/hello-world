@@ -1,3 +1,3 @@
-# Hello-Word
+# Hello-World
 My first repository ever!
-lets see what we can create
+Let's see what we can create
